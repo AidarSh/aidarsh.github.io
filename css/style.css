@@ -101,7 +101,7 @@ footer{
   width: 35px;
   height: 35px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-device-width: 768px) {
 .navmenu a:not(:first-child){
   display: none;
   }
@@ -140,7 +140,7 @@ footer{
     width: 45%;
   }
 }
-@media screen and (max-width: 420px) {
+@media screen and (max-device-width: 420px) {
   .advnc{
     flex-direction: column;
   }
