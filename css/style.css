@@ -102,7 +102,7 @@ footer{
   height: 35px;
 }
 .tab-item a{
-  margin: 82px 135px 82px 135px;
+  margin-top: 82px 135px 82px ;
   background-color: black;
   color: white;
   text-align: center;
