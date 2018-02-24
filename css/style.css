@@ -101,6 +101,11 @@ footer{
   width: 35px;
   height: 35px;
 }
+.tab-item{
+  width: 270px;
+  height: 165px;
+  background-color: black;
+}
 @media screen and (max-device-width: 768px) {
 .navmenu a:not(:first-child){
   display: none;
