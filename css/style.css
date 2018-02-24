@@ -101,7 +101,7 @@ footer{
   width: 35px;
   height: 35px;
 }
-.tab-item p{
+.tab-item a{
   margin: 82px 135px;
   background-color: black;
   color: white;
