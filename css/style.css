@@ -102,10 +102,11 @@ footer{
   height: 35px;
 }
 .tab-item{
-  width: 270px;
-  height: 165px;
+  margin: 165px 270px;
   background-color: black;
   color: white;
+  text-align: center;
+
 }
 @media screen and (max-device-width: 768px) {
 .navmenu a:not(:first-child){
