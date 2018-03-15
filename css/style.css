@@ -159,6 +159,15 @@ footer{
   margin: auto;
   margin-bottom: 15px;
 }
+.taskpadbot{
+  padding-bottom: 15px;
+}
+ol{
+  margin-left: 18px;
+}
+.fig{
+  text-align: center;
+}
 @media screen and (max-device-width: 768px) {
 .navmenu a:not(:first-child){
   display: none;
