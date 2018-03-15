@@ -168,6 +168,22 @@ ol{
 .fig{
   text-align: center;
 }
+td{
+  border: 1px solid white;
+  width: 50px;
+}
+th{
+  border: 1px solid white;
+}
+main{
+  padding:10px 15px 15px 15px;
+  background-color: #3d3d3d;
+}
+table{
+  border-spacing: 0 0;
+  text-align: center;
+  margin: auto;
+}
 @media screen and (max-device-width: 768px) {
 .navmenu a:not(:first-child){
   display: none;
