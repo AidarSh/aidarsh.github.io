@@ -184,6 +184,10 @@ table{
   text-align: center;
   margin: auto;
 }
+.imgcontact{
+  width: 128px;
+  height: 128px;
+}
 @media screen and (max-device-width: 768px) {
 .navmenu a:not(:first-child){
   display: none;
