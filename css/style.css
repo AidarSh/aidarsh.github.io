@@ -188,6 +188,16 @@ table{
   width: 128px;
   height: 128px;
 }
+.con_but{
+  margin-top: 15px;
+  padding: 15px 0;
+  background-color: #f7f7f7;
+  border-radius: 15px;
+}
+.con_but a{
+  font-size: 25px;
+  color: black;
+}
 @media screen and (max-device-width: 768px) {
 .navmenu a:not(:first-child){
   display: none;
